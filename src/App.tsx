@@ -9,7 +9,7 @@ const App: React.FunctionComponent = () => {
     <>
       <Navbar />
       <div className="container">
-        <TodoForm/>
+        <TodoForm />
       </div>
     </>
   );
