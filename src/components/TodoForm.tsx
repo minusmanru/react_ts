@@ -38,7 +38,6 @@ export const TodoForm: React.FunctionComponent = () => {
                 id="title"
                 placeholder="Введите название"
                
-                
             />
             <label htmlFor="title" className="active">
                 Введите название
